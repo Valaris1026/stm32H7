@@ -1,0 +1,13 @@
+teststm32f743vit6\croutine.o: ..\FreeRTOS\croutine.c
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/FreeRTOS.h
+teststm32f743vit6\croutine.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+teststm32f743vit6\croutine.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/FreeRTOSConfig.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/projdefs.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/portable.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/deprecated_definitions.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/portmacro.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/mpu_wrappers.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/task.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/list.h
+teststm32f743vit6\croutine.o: ../FreeRTOS/include/croutine.h

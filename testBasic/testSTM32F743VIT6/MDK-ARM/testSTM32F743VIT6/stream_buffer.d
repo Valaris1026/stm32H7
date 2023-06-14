@@ -1,0 +1,14 @@
+teststm32f743vit6\stream_buffer.o: ..\FreeRTOS\stream_buffer.c
+teststm32f743vit6\stream_buffer.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+teststm32f743vit6\stream_buffer.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\string.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/FreeRTOS.h
+teststm32f743vit6\stream_buffer.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/FreeRTOSConfig.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/projdefs.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/portable.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/deprecated_definitions.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/portmacro.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/mpu_wrappers.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/task.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/list.h
+teststm32f743vit6\stream_buffer.o: ../FreeRTOS/include/stream_buffer.h

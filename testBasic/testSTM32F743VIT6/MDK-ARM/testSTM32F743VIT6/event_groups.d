@@ -1,0 +1,15 @@
+teststm32f743vit6\event_groups.o: ..\FreeRTOS\event_groups.c
+teststm32f743vit6\event_groups.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/FreeRTOS.h
+teststm32f743vit6\event_groups.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+teststm32f743vit6\event_groups.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/FreeRTOSConfig.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/projdefs.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/portable.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/deprecated_definitions.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/portmacro.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/mpu_wrappers.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/task.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/list.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/timers.h
+teststm32f743vit6\event_groups.o: ../FreeRTOS/include/event_groups.h

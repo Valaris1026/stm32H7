@@ -1,0 +1,12 @@
+teststm32f743vit6\port.o: ..\FreeRTOS\port.c
+teststm32f743vit6\port.o: ../FreeRTOS/include/FreeRTOS.h
+teststm32f743vit6\port.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+teststm32f743vit6\port.o: C:\MySoft\IDE\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/FreeRTOSConfig.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/projdefs.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/portable.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/deprecated_definitions.h
+teststm32f743vit6\port.o: ../FreeRTOS/portmacro.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/mpu_wrappers.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/task.h
+teststm32f743vit6\port.o: ../FreeRTOS/include/list.h
